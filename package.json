@@ -1,0 +1,30 @@
+{
+  "name": "PebbloSupport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord-auto": "^1.0.9",
+    "discord.js": "^12.5.1",
+    "discord.js-lavalink": "^3.0.1",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "js-logs": "^1.1.2",
+    "mongoose": "^5.9.7",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.5.1",
+    "sequelize": "^5.22.3",
+    "shelli": "^1.0.7",
+    "youtube-sr": "^3.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+
+[DATABASE] Added PartyUp (841431351311073300) to the database
+[INFO] Pebblo Support#3341 is online
+[INFO] 2 server(s)
+[INFO] Prefix: ?
+[INFO] Admins: franxx#0046
+[INFO] Staff: none
+[DATABASE] Successfully connected to the database
